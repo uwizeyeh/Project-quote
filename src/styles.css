@@ -3,11 +3,14 @@
     background-color: beige;
 
 }
+jumbtron{
+    text-align: center;
+}
 button{
     background-color: lightblue;
 }
-label{
-
+well{
+    background-color: bisque;
 }
 input{
     background-color:antiquewhite;
