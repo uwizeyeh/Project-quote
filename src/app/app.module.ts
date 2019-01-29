@@ -11,14 +11,14 @@ import { DetailsComponent } from './details/details.component';
 @NgModule({
   declarations: [
     AppComponent,
-    QouteComponent,
+     QouteComponent,
      FormComponent,
      DetailsComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
-    // AppRoutingModule
+     AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
