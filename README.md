@@ -1,5 +1,5 @@
 # Quote
-# Author:UWIZEYIMANA Hulde
+## Author:Uwizeyimana Hulde
 This project was generated with [Angular CLI] version 7.2.2.
 
 ## Development server
@@ -28,4 +28,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help`.
-# Copylight 2019
+## Copylight 2019
