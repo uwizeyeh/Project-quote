@@ -4,14 +4,14 @@ import{FormsModule} from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { QouteComponent } from './qoute/qoute.component';
+import { QuoteComponent } from './qoute/qoute.component';
 import { FormComponent } from './form/form.component';
 import { DetailsComponent } from './details/details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-     QouteComponent,
+    QuoteComponent,
      FormComponent,
      DetailsComponent
   ],
