@@ -9,8 +9,8 @@ import {Quote} from '../qoute';
 })
 export class QuoteComponent implements OnInit {
   
-  quotes=[new Quote("ANC","Julius Malema","Mama give us a sign"),
-new Quote("Lupita","Black Panther","Wakanda Forever")]
+  quotes=[new Quote("Hulde","Eleanor Roosevelt","No one can make you feel inferior without your consent"),
+new Quote("Hulde","Aristotle","Knowing yourself is the beginning of all wisdom")]
   preNum:number;
   lastNum:number;
   counter:number;
